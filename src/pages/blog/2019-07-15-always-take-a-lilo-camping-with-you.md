@@ -6,7 +6,7 @@ description: >-
   Aliquam tortor mi, condimentum vitae elementum id, suscipit ut ex. Donec
   varius laoreet pretium. Fusce in mauris gravida, tempor lacus sed, mattis
   massa. 
-featuredpost: false
+featuredpost: true
 featuredimage: /img/lilo.jpg
 tags:
   - Lilo camping
